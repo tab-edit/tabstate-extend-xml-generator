@@ -1,0 +1,20 @@
+{
+  "name": "tabstate-extend-xml-generator",
+  "version": "1.0.0",
+  "description": "An extension for @tab-edit/state which exports a plugin for generating MusicXML from a tablature AST",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tab-edit/tabstate-extend-xml-generator.git"
+  },
+  "author": "Stanley Ihesiulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tab-edit/tabstate-extend-xml-generator/issues"
+  },
+  "homepage": "https://github.com/tab-edit/tabstate-extend-xml-generator#readme"
+}
